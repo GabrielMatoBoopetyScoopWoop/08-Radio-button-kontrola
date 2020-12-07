@@ -1,0 +1,10 @@
+C:\Users\Mato\source\repos\08 Radio button kontrola\08 Radio button kontrola\bin\Debug\08 Radio button kontrola.exe.config
+C:\Users\Mato\source\repos\08 Radio button kontrola\08 Radio button kontrola\bin\Debug\08 Radio button kontrola.exe
+C:\Users\Mato\source\repos\08 Radio button kontrola\08 Radio button kontrola\bin\Debug\08 Radio button kontrola.pdb
+C:\Users\Mato\source\repos\08 Radio button kontrola\08 Radio button kontrola\obj\Debug\08 Radio button kontrola.csprojAssemblyReference.cache
+C:\Users\Mato\source\repos\08 Radio button kontrola\08 Radio button kontrola\obj\Debug\_08_Radio_button_kontrola.Form1.resources
+C:\Users\Mato\source\repos\08 Radio button kontrola\08 Radio button kontrola\obj\Debug\_08_Radio_button_kontrola.Properties.Resources.resources
+C:\Users\Mato\source\repos\08 Radio button kontrola\08 Radio button kontrola\obj\Debug\08 Radio button kontrola.csproj.GenerateResource.cache
+C:\Users\Mato\source\repos\08 Radio button kontrola\08 Radio button kontrola\obj\Debug\08 Radio button kontrola.csproj.CoreCompileInputs.cache
+C:\Users\Mato\source\repos\08 Radio button kontrola\08 Radio button kontrola\obj\Debug\08 Radio button kontrola.exe
+C:\Users\Mato\source\repos\08 Radio button kontrola\08 Radio button kontrola\obj\Debug\08 Radio button kontrola.pdb
